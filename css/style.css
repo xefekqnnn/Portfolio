@@ -1,0 +1,187 @@
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+
+html,
+body {
+  background-color: #f9f9f9;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-custom {
+  background-color: #1e1d1d;
+  color: #fff;
+  height: auto;
+}
+
+.navbar-nav {
+  gap: 50px;
+  /* Zorg voor ruimte tussen de items */
+}
+
+.navbar-nav .nav-link.active {
+  color: #0072CE;
+  font-weight: bold;
+}
+
+
+
+
+footer {
+  background-color: #1e1d1d;
+  color: #fff;
+}
+
+.blue-text {
+  color: #0072CE;
+  font-weight: bold;
+}
+
+.over-mij-tekst {
+  max-width: 600px;
+  text-align: justify;
+
+}
+
+.profiel-foto {
+  padding: 10px;
+  background: linear-gradient(to right, #1e1d1d, #0072CE);
+  width: 200px;
+  height: 250px;
+}
+
+
+.hobby-tekst {
+  max-width: 600px;
+  text-align: justify;
+}
+
+.hobby-foto {
+  padding: 10px;
+  width: 200px;
+  height: auto;
+}
+
+#vaardigheden ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.vaardigheden-foto {
+  padding: 10px;
+  width: 200px;
+  height: auto;
+}
+
+#projecten ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.projecten-foto {
+  padding: 10px;
+  width: 200px;
+  height: auto;
+}
+
+.doelen-foto {
+  padding: 10px;
+  width: 200px;
+  height: auto;
+}
+
+
+
+
+.nav-link {
+  color: #fff
+}
+
+.blauw {
+  color: #0072CE;
+
+}
+
+.btn-outline {
+  background-color: #0072CE;
+  color: #fff;
+}
+
+
+aside {
+  padding: 0;
+}
+
+aside h3 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+aside p,
+aside ul {
+  margin: 0;
+  padding: 0;
+}
+
+aside a {
+  text-decoration: none;
+  color: #0072CE;
+}
+
+#projecten ul li a {
+  text-decoration: none;
+}
+
+.project-foto {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.tech-foto {
+  width: 50%;
+  height: 200px;
+}
+
+.webwizz-foto {
+  width: 50%;
+  height: 200px;
+}
+
+.cyber-foto {
+  width: 50%;
+  height: 200px;
+}
+
+.zero-foto {
+  width: 50%;
+  height: 200px;
+}
+
+.script-foto {
+  width: 50%;
+  height: 200px;
+}
+
+.w11-foto {
+  width: 50%;
+  height: 200px;
+}
+
+
+article p,
+article ul,
+article h2 {
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+#wilrijkmap {
+  height: 500px;
+  margin-top: 20px;
+  border: 2px solid #ccc;
+}
