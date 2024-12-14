@@ -1,4 +1,4 @@
-let map = L.map('wilrijkmap').setView([51.1572, 4.4028], 10); // Coördinaten van Wilrijk
+let map = L.map('wilrijkmap').setView([51.1572, 4.4028], 15); // Coördinaten van Wilrijk
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 30,
