@@ -1,4 +1,4 @@
-let map = L.map('wilrijkmap').setView([51.1572, 4.4028], 15);
+let map = L.map('wilrijkmap').setView([51.1572, 4.4028], 117);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 30,
