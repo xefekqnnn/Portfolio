@@ -18,11 +18,6 @@ body {
   height: auto;
 }
 
-.navbar-nav {
-  gap: 50px;
-  /* Zorg voor ruimte tussen de items */
-}
-
 .navbar-nav .nav-link.active {
   color: #0072CE;
   font-weight: bold;
